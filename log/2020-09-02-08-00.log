@@ -1,0 +1,186 @@
+[GIN-VUE-ADMIN]2020/09/02 - 15:39:46.893 /home/work/goStudy/base-gin/core/server.go:23 ▶ [ERROR] accept tcp [::]:8081: use of closed network connection
+[GIN-VUE-ADMIN]2020/09/02 - 16:47:22.162 /home/work/goStudy/base-gin/initialize/mysql.go:23 ▶ [DEBUG] Connecting Mysql Successfully 
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /base/hello               --> base-gin/api/v1.HelloWorld (3 handlers)
+[GIN-VUE-ADMIN]2020/09/02 - 16:47:22.163 /home/work/goStudy/base-gin/core/server.go:21 ▶ [DEBUG] server run success on  :8081
+[GIN-VUE-ADMIN]2020/09/02 - 16:47:37.674 /home/work/goStudy/base-gin/core/server.go:23 ▶ [ERROR] accept tcp [::]:8081: use of closed network connection
+[GIN-VUE-ADMIN]2020/09/02 - 17:22:20.811 /home/work/goStudy/base-gin/initialize/mysql.go:23 ▶ [DEBUG] Connecting Mysql Successfully 
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /base/hello               --> base-gin/api/v1.HelloWorld (3 handlers)
+[GIN-VUE-ADMIN]2020/09/02 - 17:22:20.811 /home/work/goStudy/base-gin/core/server.go:21 ▶ [DEBUG] server run success on  :8081
+[GIN-VUE-ADMIN]2020/09/02 - 17:22:27.596 /home/work/goStudy/base-gin/core/server.go:23 ▶ [ERROR] accept tcp [::]:8081: use of closed network connection
+[GIN-VUE-ADMIN]2020/09/02 - 19:26:50.833 /home/work/goStudy/base-gin/initialize/mysql.go:23 ▶ [DEBUG] Connecting Mysql Successfully 
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /base/hello               --> base-gin/api/v1.HelloWorld (3 handlers)
+[GIN-VUE-ADMIN]2020/09/02 - 19:26:50.833 /home/work/goStudy/base-gin/core/server.go:21 ▶ [DEBUG] server run success on  :8081
+[GIN] 2020/09/02 - 19:26:54 | 200 |    34.08861ms |             ::1 | GET      "/base/hello"
+[GIN-VUE-ADMIN]2020/09/02 - 19:27:28.370 /home/work/goStudy/base-gin/core/server.go:23 ▶ [ERROR] accept tcp [::]:8081: use of closed network connection
+[GIN-VUE-ADMIN]2020/09/02 - 19:27:31.448 /home/work/goStudy/base-gin/initialize/mysql.go:23 ▶ [DEBUG] Connecting Mysql Successfully 
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /base/hello               --> base-gin/api/v1.HelloWorld (3 handlers)
+[GIN-VUE-ADMIN]2020/09/02 - 19:27:31.450 /home/work/goStudy/base-gin/core/server.go:21 ▶ [DEBUG] server run success on  :8081
+[GIN] 2020/09/02 - 19:27:34 | 200 |   31.256475ms |             ::1 | GET      "/base/hello"
+[GIN-VUE-ADMIN]2020/09/02 - 19:28:02.759 /home/work/goStudy/base-gin/core/server.go:23 ▶ [ERROR] accept tcp [::]:8081: use of closed network connection
+[GIN-VUE-ADMIN]2020/09/02 - 19:28:05.758 /home/work/goStudy/base-gin/initialize/mysql.go:23 ▶ [DEBUG] Connecting Mysql Successfully 
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /base/hello               --> base-gin/api/v1.HelloWorld (3 handlers)
+[GIN-VUE-ADMIN]2020/09/02 - 19:28:05.759 /home/work/goStudy/base-gin/core/server.go:21 ▶ [DEBUG] server run success on  :8081
+[GIN] 2020/09/02 - 19:28:07 | 200 |   36.835234ms |             ::1 | GET      "/base/hello"
+[GIN-VUE-ADMIN]2020/09/02 - 19:29:06.264 /home/work/goStudy/base-gin/core/server.go:23 ▶ [ERROR] accept tcp [::]:8081: use of closed network connection
+[GIN-VUE-ADMIN]2020/09/02 - 19:29:09.106 /home/work/goStudy/base-gin/initialize/mysql.go:23 ▶ [DEBUG] Connecting Mysql Successfully 
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /base/hello               --> base-gin/api/v1.HelloWorld (3 handlers)
+[GIN-VUE-ADMIN]2020/09/02 - 19:29:09.107 /home/work/goStudy/base-gin/core/server.go:21 ▶ [DEBUG] server run success on  :8081
+[GIN] 2020/09/02 - 19:29:10 | 200 |   34.883549ms |             ::1 | GET      "/base/hello"
+[GIN-VUE-ADMIN]2020/09/02 - 19:29:20.168 /home/work/goStudy/base-gin/core/server.go:23 ▶ [ERROR] accept tcp [::]:8081: use of closed network connection
+[GIN-VUE-ADMIN]2020/09/02 - 19:29:23.150 /home/work/goStudy/base-gin/initialize/mysql.go:23 ▶ [DEBUG] Connecting Mysql Successfully 
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /base/hello               --> base-gin/api/v1.HelloWorld (3 handlers)
+[GIN-VUE-ADMIN]2020/09/02 - 19:29:23.151 /home/work/goStudy/base-gin/core/server.go:21 ▶ [DEBUG] server run success on  :8081
+[GIN] 2020/09/02 - 19:29:25 | 200 |   30.878107ms |             ::1 | GET      "/base/hello"
+[GIN-VUE-ADMIN]2020/09/02 - 19:29:53.601 /home/work/goStudy/base-gin/core/server.go:23 ▶ [ERROR] accept tcp [::]:8081: use of closed network connection
+[GIN-VUE-ADMIN]2020/09/02 - 19:29:56.549 /home/work/goStudy/base-gin/initialize/mysql.go:23 ▶ [DEBUG] Connecting Mysql Successfully 
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /base/hello               --> base-gin/api/v1.HelloWorld (3 handlers)
+[GIN-VUE-ADMIN]2020/09/02 - 19:29:56.549 /home/work/goStudy/base-gin/core/server.go:21 ▶ [DEBUG] server run success on  :8081
+[GIN] 2020/09/02 - 19:29:59 | 200 |   32.179942ms |             ::1 | GET      "/base/hello"
+[GIN-VUE-ADMIN]2020/09/02 - 19:31:01.104 /home/work/goStudy/base-gin/core/server.go:23 ▶ [ERROR] accept tcp [::]:8081: use of closed network connection
+[GIN-VUE-ADMIN]2020/09/02 - 19:31:04.043 /home/work/goStudy/base-gin/initialize/mysql.go:23 ▶ [DEBUG] Connecting Mysql Successfully 
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /base/hello               --> base-gin/api/v1.HelloWorld (3 handlers)
+[GIN-VUE-ADMIN]2020/09/02 - 19:31:04.043 /home/work/goStudy/base-gin/core/server.go:21 ▶ [DEBUG] server run success on  :8081
+[GIN] 2020/09/02 - 19:31:06 | 200 |   34.109707ms |             ::1 | GET      "/base/hello"
+[GIN-VUE-ADMIN]2020/09/02 - 19:31:32.691 /home/work/goStudy/base-gin/core/server.go:23 ▶ [ERROR] accept tcp [::]:8081: use of closed network connection
+[GIN-VUE-ADMIN]2020/09/02 - 19:31:35.493 /home/work/goStudy/base-gin/initialize/mysql.go:23 ▶ [DEBUG] Connecting Mysql Successfully 
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /base/hello               --> base-gin/api/v1.HelloWorld (3 handlers)
+[GIN-VUE-ADMIN]2020/09/02 - 19:31:35.493 /home/work/goStudy/base-gin/core/server.go:21 ▶ [DEBUG] server run success on  :8081
+[GIN] 2020/09/02 - 19:31:37 | 200 |   34.699271ms |             ::1 | GET      "/base/hello"
+[GIN-VUE-ADMIN]2020/09/02 - 19:31:49.271 /home/work/goStudy/base-gin/core/server.go:23 ▶ [ERROR] accept tcp [::]:8081: use of closed network connection
+[GIN-VUE-ADMIN]2020/09/02 - 19:31:52.133 /home/work/goStudy/base-gin/initialize/mysql.go:23 ▶ [DEBUG] Connecting Mysql Successfully 
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /base/hello               --> base-gin/api/v1.HelloWorld (3 handlers)
+[GIN-VUE-ADMIN]2020/09/02 - 19:31:52.133 /home/work/goStudy/base-gin/core/server.go:21 ▶ [DEBUG] server run success on  :8081
+[GIN] 2020/09/02 - 19:31:54 | 200 |   32.399835ms |             ::1 | GET      "/base/hello"
+[GIN] 2020/09/02 - 19:32:05 | 200 |   31.728148ms |             ::1 | GET      "/base/hello"
+[GIN-VUE-ADMIN]2020/09/02 - 19:32:10.926 /home/work/goStudy/base-gin/core/server.go:23 ▶ [ERROR] accept tcp [::]:8081: use of closed network connection
+[GIN-VUE-ADMIN]2020/09/02 - 19:32:13.931 /home/work/goStudy/base-gin/initialize/mysql.go:23 ▶ [DEBUG] Connecting Mysql Successfully 
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /base/hello               --> base-gin/api/v1.HelloWorld (3 handlers)
+[GIN-VUE-ADMIN]2020/09/02 - 19:32:13.932 /home/work/goStudy/base-gin/core/server.go:21 ▶ [DEBUG] server run success on  :8081
+[GIN] 2020/09/02 - 19:32:16 | 200 |    33.36019ms |             ::1 | GET      "/base/hello"
+[GIN-VUE-ADMIN]2020/09/02 - 19:33:18.024 /home/work/goStudy/base-gin/core/server.go:23 ▶ [ERROR] accept tcp [::]:8081: use of closed network connection
+[GIN-VUE-ADMIN]2020/09/02 - 19:33:20.940 /home/work/goStudy/base-gin/initialize/mysql.go:23 ▶ [DEBUG] Connecting Mysql Successfully 
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /base/hello               --> base-gin/api/v1.HelloWorld (3 handlers)
+[GIN-VUE-ADMIN]2020/09/02 - 19:33:20.941 /home/work/goStudy/base-gin/core/server.go:21 ▶ [DEBUG] server run success on  :8081
+[GIN] 2020/09/02 - 19:33:23 | 200 |   32.127951ms |             ::1 | GET      "/base/hello"
+[GIN-VUE-ADMIN]2020/09/02 - 19:33:28.091 /home/work/goStudy/base-gin/core/server.go:23 ▶ [ERROR] accept tcp [::]:8081: use of closed network connection
+[GIN-VUE-ADMIN]2020/09/02 - 19:33:30.938 /home/work/goStudy/base-gin/initialize/mysql.go:23 ▶ [DEBUG] Connecting Mysql Successfully 
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /base/hello               --> base-gin/api/v1.HelloWorld (3 handlers)
+[GIN-VUE-ADMIN]2020/09/02 - 19:33:30.938 /home/work/goStudy/base-gin/core/server.go:21 ▶ [DEBUG] server run success on  :8081
+[GIN] 2020/09/02 - 19:33:33 | 200 |   34.985096ms |             ::1 | GET      "/base/hello"
+[GIN-VUE-ADMIN]2020/09/02 - 19:33:48.216 /home/work/goStudy/base-gin/core/server.go:23 ▶ [ERROR] accept tcp [::]:8081: use of closed network connection
+[GIN-VUE-ADMIN]2020/09/02 - 19:37:28.993 /home/work/goStudy/base-gin/initialize/mysql.go:23 ▶ [DEBUG] Connecting Mysql Successfully 
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /base/hello               --> base-gin/api/v1.HelloWorld (3 handlers)
+[GIN-VUE-ADMIN]2020/09/02 - 19:37:28.993 /home/work/goStudy/base-gin/core/server.go:21 ▶ [DEBUG] server run success on  :8081
+[GIN] 2020/09/02 - 19:37:40 | 200 |   33.272417ms |             ::1 | GET      "/base/hello"
+[GIN-VUE-ADMIN]2020/09/02 - 19:37:58.420 /home/work/goStudy/base-gin/core/server.go:23 ▶ [ERROR] accept tcp [::]:8081: use of closed network connection
+[GIN-VUE-ADMIN]2020/09/02 - 19:38:01.416 /home/work/goStudy/base-gin/initialize/mysql.go:23 ▶ [DEBUG] Connecting Mysql Successfully 
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /base/hello               --> base-gin/api/v1.HelloWorld (3 handlers)
+[GIN-VUE-ADMIN]2020/09/02 - 19:38:01.417 /home/work/goStudy/base-gin/core/server.go:21 ▶ [DEBUG] server run success on  :8081
+[GIN] 2020/09/02 - 19:38:08 | 200 |   32.560669ms |             ::1 | GET      "/base/hello"
+[GIN-VUE-ADMIN]2020/09/02 - 19:38:51.131 /home/work/goStudy/base-gin/core/server.go:23 ▶ [ERROR] accept tcp [::]:8081: use of closed network connection
+[GIN-VUE-ADMIN]2020/09/02 - 19:56:43.842 /home/work/goStudy/base-gin/initialize/mysql.go:23 ▶ [DEBUG] Connecting Mysql Successfully 
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /base/hello               --> base-gin/api/v1.HelloWorld (3 handlers)
+[GIN-VUE-ADMIN]2020/09/02 - 19:56:43.842 /home/work/goStudy/base-gin/core/server.go:21 ▶ [DEBUG] server run success on  :8081
+[GIN-VUE-ADMIN]2020/09/02 - 19:56:45.494 /home/work/goStudy/base-gin/core/server.go:23 ▶ [ERROR] accept tcp [::]:8081: use of closed network connection
