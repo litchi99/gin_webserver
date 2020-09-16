@@ -2,7 +2,9 @@ package main
 
 import (
 	"base-gin/core"
+	"base-gin/global"
 	"base-gin/initialize"
+	"fmt"
 	_ "github.com/fvbock/endless"
 )
 
@@ -34,8 +36,9 @@ func main() {
 	//	WriteTimeout: 5*time.Second,
 	//}
 	//s.ListenAndServe()
-	//fmt.Println("vp",global.GVA_VP.Get("mysql.password"))
-	//fmt.Println("config",global.GVA_CONFIG.Mysql.Password)
+	fmt.Println("vp: ", global.GVA_VP.Get("mysql.password"))
+	fmt.Println("config: ", global.GVA_CONFIG.Mysql.Password)
+	fmt.Println("vp: ", global.GVA_VP)
 	initialize.Mysql()
 	core.RunWindowsServer()
 }
