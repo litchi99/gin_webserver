@@ -4,6 +4,8 @@ import "time"
 
 // 数据库表名是model名字的蛇形小写、复数形式
 // 数据库列名是model字段名的蛇形小写
+// 表名: SysAuthority => sys_authoritys
+// 列名: CreatedAt => created_at
 type SysAuthority struct {
 	CreatedAt       time.Time
 	UpdatedAt       time.Time
